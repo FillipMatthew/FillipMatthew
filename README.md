@@ -1,3 +1,5 @@
+My passion for programming began when a friend introduced me to Game Maker, sparking my initial interest in scripting. This curiosity led me to explore Turbo Pascal, and soon after, I transitioned to learning C, C++, and Assembly. My early programming endeavors focused on operating system and game/engine development. During this time, I also utilized Python for tasks like exporting game models from Blender into custom formats. Additionally, I gained experience in Java, creating applets and programming simple AI in Robocode a 2D tank simulation game. In recent years, I've expanded my skill set through personal projects, acquiring experience in Dart/Flutter, Swift, and VPS setup/management on Linux.
+
 [![roadmap.sh](https://roadmap.sh/card/tall/66f53e6ec45e253cb0925b7c?variant=dark)](https://roadmap.sh)
 
 <!--
